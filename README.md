@@ -1,16 +1,21 @@
-## Hi there 👋
+#  Hi there, I'm John Christopher
 
-<!--
-**John-Christopher-R/John-Christopher-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an Electronics and Communication Engineering student at **SRM University**, passionate about **Data Science**, **Artificial Intelligence**, and **Machine Learning**.
 
-Here are some ideas to get you started:
+💻 I'm currently working on real-world projects that apply AI/ML to practical problems. My goal is to build intelligent solutions that are both meaningful and impactful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Connect with me on [LinkedIn](http://linkedin.com/in/johnchristopherr)
+
+---
+
+## 📂 Featured Projects
+
+Here are some of the projects I’ve built and shared on GitHub:
+
+- **📈 Stock Price Forecasting App**  
+  A Streamlit web app that visualizes historical stock data and predicts future prices using the ARIMA model.  
+  [View Project →](https://github.com/John-Christopher-R/Stock-Price-Forecasting-App-using-ARIMA-and-Streamlit)
+
+---
+
+Thanks for visiting my profile! ⭐
